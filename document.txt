@@ -1,0 +1,4 @@
+introduction:includes details of document
+content:give the tools present in it
+body:gives all the info about document
+concludes:end part of document
