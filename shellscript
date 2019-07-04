@@ -1,0 +1,4 @@
+#!\bin\bash
+echo '...welcome to dhell scripting...'
+sleep 10
+echo '...End...'
